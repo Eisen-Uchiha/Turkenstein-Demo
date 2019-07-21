@@ -1,4 +1,5 @@
 ## Turkenstein
+This repo is only to serve visual demos of the project
 
 ## Main Features
 
